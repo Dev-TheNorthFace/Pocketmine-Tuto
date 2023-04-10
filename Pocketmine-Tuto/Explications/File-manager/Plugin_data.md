@@ -1,6 +1,6 @@
 # C'est quoi sa les plugin_data? explication?
 
-__Un plugin_data est t'un' stockage de fichier caché si tu préfaire en gros, les fichier de configuration de plugins sont la on peut configurer changé des élément d'un' plugin__
+__Un plugin_data est t'un stockage de fichier caché si tu préfaire en gros, les fichier de configuration de plugins sont la on peut configurer changé des élément d'un' plugin__
 
 # Ce qui il y a dedans
 
