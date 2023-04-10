@@ -1,6 +1,6 @@
 # Sa veut dire quoi Connection&BugHeberg?
 
-__Pour résumer ses quand l'Hébergeur' bug où vous n'avez aucune connexion internet.__
+__Pour résumer ses quand l'Hébergeur bug où vous n'avez aucune connexion internet.__
 
 __Pour l'erreur allez voir dans le fichier (Images)__
 
