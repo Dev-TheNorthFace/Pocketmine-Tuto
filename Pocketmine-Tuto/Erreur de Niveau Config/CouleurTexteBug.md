@@ -4,7 +4,7 @@ __Pour rendre vos textes plus beaux on utilise souvent des couleurs mais savez-v
 
 __Enfaite certain plugins ne prenne juste pas ce style d'écriture je vais vous donner les 2 styles d'écritures à mettre au cas ou où marche pas__
 
-__(&), (§)__
+# __(&), (§)__
 
 __Pour mettre une couleur ses simple exemple {§6Test -> ce qui va faire écrire le texte en couleur Orange}__
 
