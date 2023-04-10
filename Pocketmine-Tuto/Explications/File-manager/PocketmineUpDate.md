@@ -11,6 +11,6 @@ __Ensuite va sur ta console et fait (Stop) et (Kill) et votre console va ce rela
 
 # Les risque?
 
-__Plus qu'on' avancé dans les mise a jour plus que le code change__
+__Plus qu'on avancé dans les mise a jour plus que le code change__
 
 __Risque que certain plugins ne fonctionne plus comme avant ou a quelle que erreur.__
