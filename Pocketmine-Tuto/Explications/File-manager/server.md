@@ -1,6 +1,6 @@
 # que veut dire Server.properties?
 
-__Ce fichier est t'un' fichier de configuration__
+__Ce fichier est t'un fichier de configuration__
 
 #Config 
 #Properties Config file
