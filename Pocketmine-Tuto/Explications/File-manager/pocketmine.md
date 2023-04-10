@@ -1,12 +1,12 @@
 # Que veut dire ce fichier?
 
-Ce fichier serre pas mal a rien saufe modifier un message
+__Ce fichier serre pas mal a rien saufe modifier un message__
 
-# Config
-# Main configuration file for PocketMine-MP
-# These settings are the ones that cannot be included in server.properties
-# Some of these settings are safe, others can break your server if modified incorrectly
-# New settings/defaults won't appear automatically in this file when upgrading.
+### Config
+### Main configuration file for PocketMine-MP
+### These settings are the ones that cannot be included in server.properties
+### Some of these settings are safe, others can break your server if modified incorrectly
+### New settings/defaults won't appear automatically in this file when upgrading.
 
 settings:
   #Whether to send all strings translated to server locale or let the device handle them
@@ -227,8 +227,8 @@ plugins:
 
 # Information
 
-Ce fichier serre juste a modifier le message quand votre serveur ce redem 
+__Ce fichier serre juste a modifier le message quand votre serveur ce redem__
 
-ce qui faut modif 
+__ce qui faut modif__
 
-(shutdown-message: "")
+__(shutdown-message: "")__
