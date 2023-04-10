@@ -18,7 +18,7 @@ __Supprimez le fichier rename (world) et renommée le fichier de votre map par (
 
 # Le serveur ne ce lance pas
 
-__Sois la map n'est' pas compatible avec pocketmine__
+__Sois la map n'est pas compatible avec pocketmine__
 
 __ou il manque des fichier dans la map__
 
