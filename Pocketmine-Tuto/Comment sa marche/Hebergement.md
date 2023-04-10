@@ -1,4 +1,4 @@
-### Comment marche un hébergeur?
+# Comment marche un hébergeur?
 
 __Un hébergeur est t'un service client qui vous offre par exemple un serveur gaming, pour notre cas un serveur Minecraft Bedrock sur la version (PMMP)__
 
