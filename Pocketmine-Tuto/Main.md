@@ -1,9 +1,9 @@
 # Author de ce Pocketmine-Tuto -> The North Face
 
-### Discord Communauté Pocketmine
+### -  Discord Communauté Pocketmine
 ### https://discord.gg/ese6TBvU4a
 
-### Site pour des plugins qui font le taff et gratuit
+### -  Site pour des plugins qui font le taff et gratuit
 ### https://poggit.pmmp.io/plugins
 
 # Discord de plugins mais payant et custom a votre choix
