@@ -8,65 +8,65 @@
 
 # Discord de plugins mais payant et custom a votre choix
 
-### # ShopPlugin : by MaXoooZ et Dayx
+### • # ShopPlugin : by MaXoooZ et Dayx
 ### https://discord.gg/pocketmine
 
-### # ShopPluginMcpe : By Taruno
+### • # ShopPluginMcpe : By Taruno
 ### https://discord.gg/shop-plugins-mcpe-785109720142577664
 
-### # Kax-Shop : By KaxYum
+### • # Kax-Shop : By KaxYum
 ### https://discord.gg/SQyD2wseCp
 
 # Site ou des développeurs publie des trucs en rapport avec Pocketmine
 ### https://mcpemarket.fr
 
-### Le discord de Mcpe Market 
+### • Le discord de Mcpe Market 
 ### https://discord.gg/ghwaKdFN9n
 
 # Team de développeurs vente de tout ce qui y a en rapport avec pocketmine 
 
-### # EasyTeam -> Fondateur GhostSushi
+### • # EasyTeam -> Fondateur GhostSushi
 
-### Leurs discord 
+### • Leurs discord 
 ### https://discord.gg/easyteam
 
-### # AethTeam -> Fondateur Royal
+### • # AethTeam -> Fondateur Royal
 
-### Leurs discord
+### • Leurs discord
 ### https://discord.gg/BctnywZnAE
 
 # Pour Host des serveurs voila quelle que site les plus fiable selon moi
 
-### # HostmyServers : Fondateur Titin
+### • # HostmyServers : Fondateur Titin
 ### https://www.hostmyservers.fr
 
-### Le panel client de hostmyservers
+### • Le panel client de hostmyservers
 ### https://apps.hostmyservers.fr
 
-### Le discord de hostmyservers 
+### • Le discord de hostmyservers 
 ### https://discord.gg/hostmyservers
 
-### # Winheberg : Fondateur Perzival
+### • # Winheberg : Fondateur Perzival
 ### https://winheberg.fr
 
-### Le panel client de Winheberg
+### • Le panel client de Winheberg
 ### https://panel.winheberg.fr
 
-### Leurs discord
+### • Leurs discord
 ### https://discord.gg/DRTzEKSwPU
 
-### # EclipsCloud -> Fondateur Royal
+### • # EclipsCloud -> Fondateur Royal
 
-### Site Web
+### • Site Web
 ### https://eclipscloud.fr/
 
-### Leus discord
+### • Leus discord
 ### https://discord.gg/epB67ny9KS
 
-### # Efg Hosting : Fondateur Monologue
+### • # Efg Hosting : Fondateur Monologue
 ### https://efg-servers.org/portal#
 
-### Le panel client de Efg Hosting
+### • Le panel client de Efg Hosting
 ### https://efg-servers.org
 
 # Leurs discord -> Information si vous vous demandez pourquoi justement ses un serveur Plutonium Bo2 chercher pas à comprendre vous avez un problème vient créé un ticket!
