@@ -8,5 +8,5 @@ __Sur le site écrivez les item que vous voulez en anglais__
 
 __Voila le site web pour toutes les ID de minecraft__
 
-#__Premier site__
-###__https://minecraft-ids.grahamedgecombe.com__
+# Premier site
+### https://minecraft-ids.grahamedgecombe.com
