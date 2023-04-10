@@ -1,8 +1,8 @@
 # que veut dire Server.properties?
 
-Ce fichier est t'un' fichier de configuration
+__Ce fichier est t'un' fichier de configuration__
 
-# Config 
+#Config 
 #Properties Config file
 #Sun Mar 26 03:27:51 UTC 2023
 motd=Test de config
@@ -38,18 +38,18 @@ language=eng
 
 # Information 
 
-(on = Oui), (off = non)
+__(on = Oui), (off = non)__
 
 # Information 
  
-Pour le (motd) ne mettez aucune couleur car sinon sa va faire des chiffres et des lettres bizarre 
+__Pour le (motd) ne mettez aucune couleur car sinon sa va faire des chiffres et des lettres bizarre__ 
 
 # Information 
 
-A vous de voir ce que vous modifié si sa crash effacé le fichier et refaite vos modif
+__A vous de voir ce que vous modifié si sa crash effacé le fichier et refaite vos modif__
 
 # Information 
 
-Pour ceux qui veulent le motd en couleur allez dans le fichier plugins et télécharger le plugins suivant 
+__Pour ceux qui veulent le motd en couleur allez dans le fichier plugins et télécharger le plugins suivant__ 
 
-- CustomNameServer.phar
+__- CustomNameServer.phar__
