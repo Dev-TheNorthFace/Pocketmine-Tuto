@@ -1,15 +1,15 @@
 **Pourquoi dans ma console ses écrit (Chunk not loading)?**
 
-__Problèmes de performances du serveur : Si votre serveur Minecraft est surchargé ou manque de ressources système (comme la mémoire RAM), il peut avoir du mal à charger les chunks rapidement, ce qui entraîne cette erreur.
+__Problèmes de performances du serveur : Si votre serveur Minecraft est surchargé ou manque de ressources système (comme la mémoire RAM), il peut avoir du mal à charger les chunks rapidement, ce qui entraîne cette erreur.__
 
 
-Problèmes de réseau : Des problèmes de connectivité réseau entre le client Minecraft et le serveur peuvent également entraîner des erreurs de chargement de chunks. Des déconnexions temporaires ou des délais dans la transmission des données peuvent provoquer ce type de problème.
+__Problèmes de réseau : Des problèmes de connectivité réseau entre le client Minecraft et le serveur peuvent également entraîner des erreurs de chargement de chunks. Des déconnexions temporaires ou des délais dans la transmission des données peuvent provoquer ce type de problème.__
 
 
-Corruption du monde : Il est possible que des parties du monde de votre serveur Minecraft soient corrompues, ce qui empêche le chargement des chunks. Cela peut se produire en raison d'un arrêt brutal du serveur, d'une panne de courant ou d'autres problèmes similaires.
+__Corruption du monde : Il est possible que des parties du monde de votre serveur Minecraft soient corrompues, ce qui empêche le chargement des chunks. Cela peut se produire en raison d'un arrêt brutal du serveur, d'une panne de courant ou d'autres problèmes similaires.__
 
 
-Plugins ou mods défectueux : Certains plugins ou mods tiers installés sur votre serveur peuvent interférer avec le chargement des chunks, en particulier s'ils ne sont pas compatibles avec la version actuelle de Minecraft ou s'ils sont mal codés.__
+__Plugins ou mods défectueux : Certains plugins ou mods tiers installés sur votre serveur peuvent interférer avec le chargement des chunks, en particulier s'ils ne sont pas compatibles avec la version actuelle de Minecraft ou s'ils sont mal codés.__
 
 **Pour résoudre ce problème, vous pouvez essayer les actions suivantes :**
 
