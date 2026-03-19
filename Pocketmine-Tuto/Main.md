@@ -1,76 +1,104 @@
-# Author de ce Pocketmine-Tuto -> The North Face
+---
 
-### • Discord Communauté Pocketmine
-### https://discord.gg/ese6TBvU4a
+## 👨‍💻 Auteur
 
-### • Site pour des plugins qui font le taff et gratuit
-### https://poggit.pmmp.io/plugins
+**PocketMine-Tuto** créé par **North**
 
-# Discord de plugins mais payant et custom a votre choix
+---
 
-### • # ShopPlugin : by MaXoooZ et Dayx
-### https://discord.gg/pocketmine
+## 🌐 Communauté PocketMine
 
-### • # ShopPluginMcpe : By Taruno
-### https://discord.gg/shop-plugins-mcpe-785109720142577664
+💬 Rejoignez la communauté :
 
-### • # Kax-Shop : By KaxYum
-### https://discord.gg/SQyD2wseCp
+- 🎮 **Discord PocketMine**  
+  https://discord.gg/ese6TBvU4a
 
-# Site ou des développeurs publie des trucs en rapport avec Pocketmine
-### https://mcpemarket.fr
+---
 
-### • Le discord de Mcpe Market 
-### https://discord.gg/ghwaKdFN9n
+## 🔌 Plugins gratuits
 
-# Team de développeurs vente de tout ce qui y a en rapport avec pocketmine 
+📦 Des plugins gratuits et fiables :
 
-### • # EasyTeam -> Fondateur GhostSushi
+- 🌍 **Poggit (officiel PocketMine)**  
+  https://poggit.pmmp.io/plugins
 
-### • Leurs discord 
-### https://discord.gg/easyteam
+---
 
-### • # AethTeam -> Fondateur Royal
+## 💰 Shops de plugins (payants & custom)
 
-### • Leurs discord
-### https://discord.gg/BctnywZnAE
+### 🛒 ShopPlugin (MaXoooZ & Dayx)
+- https://discord.gg/pocketmine  
 
-# Pour Host des serveurs voila quelle que site les plus fiable selon moi
+### 🛒 ShopPluginMcpe (Taruno)
+- https://discord.gg/shop-plugins-mcpe-785109720142577664  
 
-### • # HostmyServers : Fondateur Titin
-### https://www.hostmyservers.fr
+### 🛒 Kax-Shop (KaxYum)
+- https://discord.gg/SQyD2wseCp  
 
-### • Le panel client de hostmyservers
-### https://apps.hostmyservers.fr
+---
 
-### • Le discord de hostmyservers 
-### https://discord.gg/hostmyservers
+## 🌍 Plateformes & Market
 
-### • # Winheberg : Fondateur Perzival
-### https://winheberg.fr
+### 🧠 MCPEmarket
+- 🌐 Site : https://mcpemarket.fr  
+- 💬 Discord : https://discord.gg/ghwaKdFN9n  
 
-### • Le panel client de Winheberg
-### https://panel.winheberg.fr
+---
 
-### • Leurs discord
-### https://discord.gg/DRTzEKSwPU
+## 👥 Teams de développement
 
-### • # EclipsCloud -> Fondateur Royal
+### 🔥 EasyTeam (Fondateur : GhostSushi)
+- 💬 Discord : https://discord.gg/easyteam  
 
-### • Site Web
-### https://eclipscloud.fr/
+### 🔥 AethTeam (Fondateur : Royal)
+- 💬 Discord : https://discord.gg/BctnywZnAE  
 
-### • Leus discord
-### https://discord.gg/epB67ny9KS
+---
 
-### • # Efg Hosting : Fondateur Monologue
-### https://efg-servers.org/portal#
+## 🖥️ Hébergements recommandés
 
-### • Le panel client de Efg Hosting
-### https://efg-servers.org
+### ⚡ HostMyServers (Fondateur : Titin)
+- 🌐 Site : https://www.hostmyservers.fr  
+- 🧾 Panel : https://apps.hostmyservers.fr  
+- 💬 Discord : https://discord.gg/hostmyservers  
 
-# Leurs discord -> Information si vous vous demandez pourquoi justement ses un serveur Plutonium Bo2 chercher pas à comprendre vous avez un problème vient créé un ticket!
-### https://discord.gg/efg
+---
 
-# LocalHost : LocalHost c'est totalement gratuit vue que c'est fait sur votre Pc a vous : Voila une vidéo qui vous l'explique en détails
-### https://youtu.be/6K_pwxQl5N8
+### ⚡ WinHeberg (Fondateur : Perzival)
+- 🌐 Site : https://winheberg.fr  
+- 🧾 Panel : https://panel.winheberg.fr  
+- 💬 Discord : https://discord.gg/DRTzEKSwPU  
+
+---
+
+### ⚡ EclipsCloud (Fondateur : Royal)
+- 🌐 Site : https://eclipscloud.fr/  
+- 💬 Discord : https://discord.gg/epB67ny9KS  
+
+---
+
+### ⚡ EFG Hosting (Fondateur : Monologue)
+- 🌐 Site : https://efg-servers.org/portal#  
+- 🧾 Panel : https://efg-servers.org  
+- 💬 Discord : https://discord.gg/efg  
+
+💡 *Note : Si quelque chose vous semble étrange sur leur serveur (ex : Plutonium BO2), ne vous inquiétez pas — ouvrez simplement un ticket en cas de problème.*
+
+---
+
+## 💻 Hébergement gratuit (LocalHost)
+
+🆓 **LocalHost** = héberger un serveur directement sur votre PC (gratuit)
+
+📺 Tutoriel vidéo :  
+https://youtu.be/6K_pwxQl5N8  
+
+---
+
+## 💡 Conseils
+
+- ✔️ Testez toujours vos plugins avant de les mettre en production  
+- ✔️ Évitez les plugins crackés (risques de sécurité ⚠️)  
+- ✔️ Choisissez un hébergement adapté à votre nombre de joueurs  
+
+---
